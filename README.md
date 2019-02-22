@@ -1,1 +1,1 @@
-# amper
+# Amper, Bryan P.
