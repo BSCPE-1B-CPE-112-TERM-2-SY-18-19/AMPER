@@ -12,7 +12,7 @@ using namespace std;
 class cpe1b{
 	public:
 		void palindromic_prime(long x); // PASABOT ANI KAY MAGHIMO KAG FUNCTION NGA PALINDROMIC PRIME
-		void wasteful_number(long x);
+		void wasteful_number(long x); // function for wasteful number
 		long prime(long num);  // KANI CLASS GAHIMOG FUNCTION NGA GINGANLAN UG PRIME NGA longEGER KAY longEGER MAN ANG PRIME DILI STRING DILI POD FLOAT
 		long binary(long num1); // function for binary
 		long reverse(long num2); // function for reverse
